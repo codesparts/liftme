@@ -1,0 +1,16 @@
+aiohttp==1.2.0
+appdirs==1.4.0
+async-timeout==1.1.0
+chardet==2.3.0
+Flask==0.10.1
+itsdangerous==0.24
+Jinja2==2.9.5
+MarkupSafe==0.23
+multidict==2.1.4
+packaging==16.8
+pyparsing==2.1.10
+six==1.10.0
+telepot==10.4
+urllib3==1.20
+Werkzeug==0.11.15
+yarl==0.9.0
